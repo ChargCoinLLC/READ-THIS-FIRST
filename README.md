@@ -5,7 +5,7 @@ The Charg Coin (CHG) Repository is mostly private at this time.  You can keep se
 Some resources to check out:
 <br>
 <br>Main websites:
-https://cghcoin.org
+<br>https://cghcoin.org
 <br>https://wecharg.com
 <br><br>
 Forums / Live Chat
@@ -13,7 +13,7 @@ Forums / Live Chat
 <br>https://t.me/chargchat
 <br><br>
 Youtube:
-https://www.youtube.com/channel/UCf8IU41uJ0h5TqhpftKwD_Q
+<br>https://www.youtube.com/channel/UCf8IU41uJ0h5TqhpftKwD_Q
 <br>
 <br>Facebook:
 <br>Charg Coin - https://www.facebook.com/ChargCoin/
