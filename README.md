@@ -8,6 +8,18 @@ Some resources to check out:
 <br>https://cghcoin.org
 <br>https://wecharg.com
 <br><br>
+TRADE CHG Coin:
+<br>https://chgcoin.org/trade
+<br><br>Download Android App (will be replaced with browser-based version for compatabilith purposes Nov. 2020):
+<br>https://play.google.com/store/apps/details?id=io.charg.chargstation
+
+<br><br>CHG 1.0 Smart Contract (Replaced by CHG 2.0 - see below):  
+<br>https://etherscan.io/address/0xc4a86561cb0b7ea1214904f26e6d50fd357c7986#readContract
+<br><br>
+CHG 2.0 Mainnet Platform:
+<br>Explorer: https://explorer.chgcoin.org
+<br>Stats: https://stats.chgcoin.org
+<br><br>
 Forums / Live Chat
 <br>https://forum.chgcoin.org
 <br>https://t.me/chargchat
