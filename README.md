@@ -9,16 +9,16 @@ https://cghcoin.org
 <br>https://wecharg.com
 <br><br>
 Forums / Live Chat
-https://forum.chgcoin.org
+<br>https://forum.chgcoin.org
 <br>https://t.me/chargchat
 <br><br>
 Youtube:
 https://www.youtube.com/channel/UCf8IU41uJ0h5TqhpftKwD_Q
 <br>
 Facebook:
-Charg Coin - https://www.facebook.com/ChargCoin/
+<br>Charg Coin - https://www.facebook.com/ChargCoin/
 <br>WeCharg - https://www.facebook.com/WeCharg.Official/
 <br>
 Twitter:
-Charg Coin - Https://twitter.com/chgcoin
+<br>Charg Coin - Https://twitter.com/chgcoin
 <br>WeCharg - https://twitter.com/We_Charg
